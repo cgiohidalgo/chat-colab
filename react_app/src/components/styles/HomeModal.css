@@ -1,0 +1,16 @@
+.HomeModal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  min-height: 10rem;
+}
+
+.HomeModal button + button {
+  margin-left: 1rem;
+}
+
+.uncolabChat_users {
+  display: inline;
+}
